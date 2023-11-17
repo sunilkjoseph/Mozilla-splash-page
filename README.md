@@ -6,7 +6,7 @@ Welcome to the Mozilla Splash Page! This project showcases a simple webpage layo
 
 - [Description](#description)
 - [Usage](#usage)
-- [License](#license)
+- [Source](#source)
 
 ## Description
 
@@ -20,8 +20,9 @@ To view the webpage, simply open the `index.html` file in a web browser. The web
 
 Feel free to explore the various sections, click on the further information links, and learn more about Mozilla and its contributions to the open web.
 
-## License
+## Source
 
-This project is licensed under the [MIT License](LICENSE), allowing you to use and modify the code for your own purposes. Please refer to the license file for more details.
+This webpage was created based on the information provided in the [Mozilla Developer Network's HTML Multimedia and Embedding guide](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding).
 
 ---
+
